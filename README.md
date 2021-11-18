@@ -1,28 +1,18 @@
-<h1 align="center"><b>❤ Sophia v3 ❤</b></h1>
+<h1 align="center"><b>Thunder GoHelp Bot</b></h1>
 
 
-<p align="center"><a href="https://t.me/SophiaSupport_Official"><img src="https://telegra.ph/file/f6afa44d010598c379503.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/SophiaSupport_Official"><img src="https://telegra.ph/file/166d6f00c76d77154e994.jpg" width="400"></a></p>
 <p align="center">
   <h4 align="center"><b>A Powerful, Smart And Simple Group Manager <br> ... Written with  Pyrogram and Telethon...</b></h4>  
 
 <p align="center">
-    <a href="https://github.com/dihanofficial/sophiabot/stargazers"><img src="https://img.shields.io/github/stars/dihanofficial/SophiaBot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
-</p>
-<p align="center">
-    <a href="https://app.codacy.com/manual/dihanofficial/Sophiabot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/dihanofficial/sophiabot"> <img src="https://img.shields.io/github/repo-size/dihanofficial/sophiabot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/dihanofficial/sophiabot/commits/dihanofficial"> <img src="https://img.shields.io/github/last-commit/dihanofficial/sophiabot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/dihanofficial/sophia/issues"> <img src="https://img.shields.io/github/issues/dihanofficial/sophiabot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/dihanofficial/sophiabot/network/members"> <img src="https://img.shields.io/github/forks/dihanofficial/sophiabot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
+    <a href="https://github.com/thunderteampro/SophiaBot/"><img src="https://img.shields.io/github/stars/dihanofficial/SophiaBot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 
-
- <b> ⭐️ Thanks to everyone who starred Sophia, That is the greatest pleasure we have ! </b> 
+ <b> ⭐️ Thanks to everyone who starred Thunder GoHelp, That is the greatest pleasure we have ! </b> 
 
 
 
-## Avaiilable on Telegram as [@SophiaSLBot](https://t.me/sophiaslbot)
+## Avaiilable on Telegram as [@#](#)
 
 
 
